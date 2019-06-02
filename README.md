@@ -2,6 +2,7 @@
 
 Flutter circle bottom bar
 
+[![](https://github.com/mehrtarh/flutter_circle_bottom_bar/blob/master/circle_bottom_bar.gif?raw=true)](https://github.com/mehrtarh/flutter_circle_bottom_bar/blob/master/circle_bottom_bar.gif?raw=true)
 
 #### how to use:
 
