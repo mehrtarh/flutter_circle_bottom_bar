@@ -1,0 +1,18 @@
+name: flutter_circle_bottombar
+description: flutter circle bottom bar.
+version: 1.0.0
+author: Mehran Jafari  <mehran.flutter@gmail.com>
+homepage: https://github.com/mehrtarh/flutter_circle_bottom_bar
+
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  meta: ^1.1.6
+  icon_shadow: ^1.0.1
+
+
+flutter:
