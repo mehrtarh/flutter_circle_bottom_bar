@@ -2,7 +2,7 @@
 
 Flutter circle bottom bar
 
-[![](https://github.com/mehrtarh/flutter_circle_bottom_bar/blob/master/circle_bottom_bar.gif?raw=true) {:height="50%" width="50%"}](https://github.com/mehrtarh/flutter_circle_bottom_bar/blob/master/circle_bottom_bar.gif?raw=true){:height="20%" width="20%"}
+<img  src="https://github.com/mehrtarh/flutter_circle_bottom_bar/blob/master/circle_bottom_bar.gif?raw=true" width=30% height=30% />
 
 #### how to use:
 
