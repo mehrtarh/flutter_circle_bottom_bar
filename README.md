@@ -11,8 +11,14 @@ Flutter circle bottom bar
 ```yaml
 flutter_circle_bottombar: ^1.0.0
 ```
+##### 2. import packages:
 
-##### 2. create tabs:
+```dart
+import 'package:flutter_circle_bottombar/animation_circle_bottom_bar.dart';
+import 'package:flutter_circle_bottombar/tab_item.dart';
+```
+
+##### 3. create tabs:
 ```dart
 List<TabItem> tabItems = List.of([
     new TabItem(Icons.access_alarm,normalColor: Colors.white,selectedColor: Colors.yellowAccent,shadowColor: Colors.yellowAccent),
